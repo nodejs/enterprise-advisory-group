@@ -101,7 +101,7 @@ Next steps --  activities to get the group chartered.  Mode of operation for thi
 Dshaw -- flip this around.  What are the ways that the TSC would reach out to this group?  I.e. a security issue or breakign change?  Would that go onto an agenda for regular cadence?  
 
 James
-monthly/bimonthy email to share outstanding decisions/conversations of interests etc.  also any questions for discussion with this group.   Would like this group to proactively reach out to the TSC askign for current status for important items.
+monthly/bimonthy email to share outstanding decisions/conversations of interests etc.  also any questions for discussion with this group.   Would like this group to proactively reach out to the TSC asking for current status for important items.
 
 Occasional issues come up which might -- this group should proactively engage with the TSC for things which are impactful.
 
