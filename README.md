@@ -23,9 +23,3 @@ Members are are expected to provide feedback on how proposed changes in the Node
 * **Sarah Novotny** - Google
 * **Gaurav Seth** - Microsoft
 * **Laurie Voss** - npm
-
-## Additional Context
-
-The organization and formation of this initiative was kicked off by James Snell ([@jasnell](https://github.com/jasnell)) and Dan Shaw ([@dshaw](https://github.com/dshaw)). We are greatful for their leadership.
-
-* [#user-feedback/18](https://github.com/nodejs/user-feedback/issues/18) Enterprise Advisory/Feedback Group
