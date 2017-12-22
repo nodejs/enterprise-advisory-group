@@ -7,7 +7,7 @@ Thank you for your interest and support. Please [create an issue](https://github
 ### Governance and Contributing
 The Enterprise Advisory Group has adopted the core governance and contributing policies of Node.js. This group is a part of the [Node.js End User Feedback Inititative](https://github.com/nodejs/user-feedback) which is under the charter of the [Node.js Community Committee (CommComm)](https://github.com/nodejs/community-committee).
 
-Members are are expected to provide feedback on how proposed changes in the Node.js project will affect Enterprise teams, business goals, and application performance at scale. Members attend regular group meetings to provide feedback and respond to occasional outreach requests. 
+Members are expected to provide feedback on how proposed changes in the Node.js project will affect Enterprise teams, business goals, and application performance at scale. Members attend regular group meetings to provide feedback and respond to occasional outreach requests. 
 
 ### Enterprise Advisory Group Team Members
 
