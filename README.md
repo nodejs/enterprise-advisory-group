@@ -12,7 +12,6 @@ Members are expected to provide feedback on how proposed changes in the Node.js 
 ### Enterprise Advisory Group Team Members
 
 * [dshaw](https://github.com/dshaw) - **Dan Shaw** &lt;dshaw@dshaw.com&gt; - Node.js End User Feedback coordinator - Node.js at Large ✨
-* [jasnell](https://github.com/jasnell) - **James Snell** - TSC - nearForm
 * **Scott Anderson** - MasterCard
 * **Chris Castle** - Heroku
 * **Monica Ene-Pietrosanu** - Intel
